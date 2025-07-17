@@ -1,23 +1,69 @@
-# 🚀 Hi there, I'm Aman Mishra! 
-
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;Data+Science+Enthusiast;Frontend+Wizard;Always+Learning+New+Things&font=Fira%20Code&center=true&width=440&height=45&color=#37bcf7&vCenter=true&size=22&pause=1000" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:83a4d4,100:b6fbff&height=200&section=header&text=Aman%20Mishra&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=ffffff" width="100%"/>
 </div>
 
 <div align="center">
-  
-  [![Profile Views](https://komarev.com/ghpvc/?username=AmanMishra107&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/AmanMishra107)
-  [![GitHub followers](https://img.shields.io/github/followers/AmanMishra107?label=Followers&style=social)](https://github.com/AmanMishra107?tab=followers)
-  [![GitHub stars](https://img.shields.io/github/stars/AmanMishra107?label=Stars&style=social)](https://github.com/AmanMishra107?tab=repositories)
-  
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=🚀+Full+Stack+Developer;📊+Data+Science+Enthusiast;⚡+Frontend+Wizard;🌟+Always+Learning+New+Things;💡+Problem+Solver;🎯+Tech+Innovator&font=Fira%20Code&center=true&width=600&height=70&color=36BCF7&vCenter=true&size=25&pause=1000&repeat=true&duration=4000" />
+</div>
+
+<br>
+
+<div align="center">
+  <a href="https://github.com/AmanMishra107">
+    <img src="https://komarev.com/ghpvc/?username=AmanMishra107&label=Profile%20Views&color=36BCF7&style=for-the-badge&logo=eye" alt="Profile Views"/>
+  </a>
+  <a href="https://github.com/AmanMishra107?tab=followers">
+    <img src="https://img.shields.io/github/followers/AmanMishra107?label=Followers&style=for-the-badge&color=36BCF7&logo=github" alt="GitHub Followers"/>
+  </a>
+  <a href="https://github.com/AmanMishra107?tab=repositories">
+    <img src="https://img.shields.io/github/stars/AmanMishra107?label=Stars&style=for-the-badge&color=ffd700&logo=star" alt="GitHub Stars"/>
+  </a>
+</div>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 </div>
 
 ---
 
-## 🎯 About Me
+<div align="center">
+  <h2>
+    <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">
+    <b>About Me</b>
+    <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">
+  </h2>
+</div>
 
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+<table>
+<tr>
+<td valign="top" width="50%">
 
+### 🚀 Quick Facts
+- 🔭 I'm currently working on **Full Stack Development**
+- 🌱 I'm currently learning **Advanced Data Science**
+- 👯 I'm looking to collaborate on **Open Source Projects**
+- 💬 Ask me about **Web Development, Data Science, and Tech**
+- ⚡ Fun fact: **There are two ways to write error-free programs; only the third one works**
+- 📧 Reach me at: **your.email@example.com**
+
+### 🎯 Current Focus
+```javascript
+const currentFocus = {
+    learning: ["Advanced React Patterns", "ML Algorithms"],
+    building: ["Portfolio Website", "Data Visualization Tools"],
+    reading: ["Clean Code", "System Design"],
+    goals: ["Contribute to Open Source", "Build SaaS Product"]
+};
+```
+
+</td>
+<td valign="top" width="50%">
+
+<div align="center">
+  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="400">
+</div>
+
+### 💻 Coding Activity
 ```javascript
 const aman = {
     pronouns: "He" | "Him",
@@ -36,70 +82,148 @@ const aman = {
         databases: ["MongoDB", "MySQL", "PostgreSQL"],
         misc: ["Firebase", "Socket.IO", "Docker"]
     },
-    architecture: ["Serverless Architecture", "Progressive web applications", "Single page applications"],
-    currentProject: "Working on something cool 😎",
-    funFact: "There are two ways to write error-free programs; only the third one works"
+    architecture: [
+        "Serverless Architecture", 
+        "Progressive web applications", 
+        "Single page applications"
+    ],
+    currentProject: "Working on something cool 😎"
 };
 ```
 
+</td>
+</tr>
+</table>
+
 ---
 
-## 🔥 My Stats
+<div align="center">
+  <h2>
+    <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;<i>Git Activeness</i>&nbsp;<img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>
+  </h2>
+</div>
 
 <div align="center">
-  <img width="390" src="https://github-readme-streak-stats.herokuapp.com/?user=AmanMishra107&theme=react&border=61dafb&hide_border=true" alt="AmanMishra107" />
-  <img width="390" src="https://github-readme-stats.vercel.app/api?username=AmanMishra107&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
-  <img width="325" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmanMishra107&theme=react&border_color=61dafb&hide_border=true&layout=compact" />
+  <table>
+    <tr>
+      <td width="50%">
+        <img src="https://github-readme-stats.vercel.app/api?username=AmanMishra107&show_icons=true&theme=tokyonight&bg_color=0D1117&border_color=30A3DC&border_radius=10" alt="GitHub Stats"/>
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=AmanMishra107&theme=tokyonight&background=0D1117&border=30A3DC&ring=1DB954&fire=1DB954&currStreakLabel=1DB954&sideNums=FFFFFF&currStreakNum=FFFFFF&dates=A0A9B8&sideLabels=A0A9B8&stroke=30A3DC" alt="GitHub Streak"/>
+      </td>
+      <td width="50%">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmanMishra107&layout=compact&theme=tokyonight&bg_color=0D1117&border_color=30A3DC&border_radius=10&card_width=400" alt="Top Languages"/>
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=AmanMishra107&bg_color=0D1117&color=1DB954&line=30A3DC&point=FFFFFF&area=true&hide_border=true&custom_title=Contribution%20Graph" alt="Contribution Graph"/>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 </div>
 
 ---
 
-## 💻 Tech Stack
+<div align="center">
+  <h2>
+    <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30">
+    <b>Tech Stack</b>
+    <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30">
+  </h2>
+</div>
 
 <div align="center">
-
-### Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-
-### Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-### Backend & Database
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-
-### Data Science & ML
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-
-### Tools & Platforms
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-
+  <table>
+    <tr>
+      <td align="center" width="25%">
+        <h3>🎨 Frontend</h3>
+        <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,bootstrap,tailwind&perline=4" />
+      </td>
+      <td align="center" width="25%">
+        <h3>⚡ Backend</h3>
+        <img src="https://skillicons.dev/icons?i=nodejs,express,python,django,flask,fastapi&perline=3" />
+      </td>
+      <td align="center" width="25%">
+        <h3>🗄️ Database & Cloud</h3>
+        <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,firebase,aws,gcp&perline=3" />
+      </td>
+      <td align="center" width="25%">
+        <h3>🛠️ Tools & Others</h3>
+        <img src="https://skillicons.dev/icons?i=git,github,vscode,docker,linux,figma&perline=3" />
+      </td>
+    </tr>
+  </table>
 </div>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</div>
+
+<details>
+<summary><b>💻 More Tech Details</b></summary>
+<br>
+
+**Languages:**
+- ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+- ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+- ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+- ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+- ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+- ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white)
+
+**Frameworks & Libraries:**
+- ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+- ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+- ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
+- ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
+- ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=flat-square&logo=express&logoColor=white)
+
+**Data Science & ML:**
+- ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+- ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+- ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white)
+- ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+- ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+
+</details>
 
 ---
 
-## 🏆 Featured Projects
+<div align="center">
+  <h2>
+    <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+    <b>Featured Projects</b>
+    <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+  </h2>
+</div>
 
 <div align="center">
+  <table>
+    <tr>
+      <td width="50%" align="center">
+        <a href="https://github.com/AmanMishra107/Netflix-homepage">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=AmanMishra107&repo=Netflix-homepage&theme=tokyonight&bg_color=0D1117&border_color=30A3DC&border_radius=10&hide_border=false" alt="Netflix Homepage"/>
+        </a>
+        <br><br>
+        <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+        <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+      </td>
+      <td width="50%" align="center">
+        <a href="https://github.com/AmanMishra107/Temperature-converter">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=AmanMishra107&repo=Temperature-converter&theme=tokyonight&bg_color=0D1117&border_color=30A3DC&border_radius=10&hide_border=false" alt="Temperature Converter"/>
+        </a>
+        <br><br>
+        <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+        <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+      </td>
+    </tr>
+  </table>
+</div>
 
-[![Netflix Homepage](https://github-readme-stats.vercel.app/api/pin/?username=AmanMishra107&repo=Netflix-homepage&theme=react&border_color=61dafb&hide_border=true)](https://github.com/AmanMishra107/Netflix-homepage)
-[![Temperature Converter](https://github-readme-stats.vercel.app/api/pin/?username=AmanMishra107&repo=Temperature-converter&theme=react&border_color=61dafb&hide_border=true)](https://github.com/AmanMishra107/Temperature-converter)
-
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 </div>
 
 ---
@@ -120,26 +244,46 @@ const aman = {
 
 ---
 
-## 🏆 GitHub Trophies
-
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AmanMishra107&theme=radical&no-frame=false&no-bg=false&margin-w=4" />
+  <h2>
+    <img src="https://media.giphy.com/media/3oriO04qxVReM5rJEA/giphy.gif" width="30">
+    <b>GitHub Trophies</b>
+    <img src="https://media.giphy.com/media/3oriO04qxVReM5rJEA/giphy.gif" width="30">
+  </h2>
 </div>
 
----
-
-## 💭 Quote of the Day
-
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+  <img src="https://github-profile-trophy.vercel.app/?username=AmanMishra107&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4&row=2&column=3" />
 </div>
 
----
-
-## 🌟 Random Dev Joke
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</div>
 
 <div align="center">
-  <img src="https://readme-jokes.vercel.app/api?theme=radical" alt="Jokes Card" />
+  <h2>
+    <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="30">
+    <b>Daily Motivation</b>
+    <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="30">
+  </h2>
+</div>
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=Code%20is%20like%20humor.%20When%20you%20have%20to%20explain%20it,%20it's%20bad.&author=Cory%20House" />
+</div>
+
+<br>
+
+<div align="center">
+  <h2>
+    <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30">
+    <b>Random Dev Joke</b>
+    <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30">
+  </h2>
+</div>
+
+<div align="center">
+  <img src="https://readme-jokes.vercel.app/api?theme=tokyonight&hideBorder" alt="Jokes Card" />
 </div>
 
 ---
@@ -168,43 +312,83 @@ Other        38 mins         █░░░░░░░░░░░░░░░░
 
 ---
 
-## 🤝 Connect with Me
-
 <div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourlinkedin)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourtwitter)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/yourinstagram)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:youremail@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://yourportfolio.com)
-
+  <h2>
+    <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30">
+    <b>Let's Connect & Collaborate</b>
+    <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30">
+  </h2>
 </div>
 
----
-
-## 💖 Support Me
+<p align="center">
+  <a href="https://linkedin.com/in/yourlinkedin" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&animation=pulse" alt="LinkedIn"/>
+  </a>
+  <a href="https://twitter.com/yourtwitter" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
+  </a>
+  <a href="https://instagram.com/yourinstagram" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+  <a href="mailto:your.email@example.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  <a href="https://yourportfolio.com" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
+  </a>
+</p>
 
 <div align="center">
-
-[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/amanmishra107)
-[![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/amanmishra107)
-
+  <a href="mailto:your.email@example.com">
+    <img src="https://img.shields.io/badge/📧%20Email%20Me-D14836?style=for-the-badge&logoColor=white" alt="Email Me"/>
+  </a>
+  <a href="https://yourportfolio.com">
+    <img src="https://img.shields.io/badge/🌐%20Visit%20Portfolio-FF5722?style=for-the-badge&logoColor=white" alt="Portfolio"/>
+  </a>
 </div>
 
----
-
 <div align="center">
-  
-### ✨ "Code is like humor. When you have to explain it, it's bad." – Cory House ✨
-
-<img src="https://readme-typing-svg.herokuapp.com/?lines=Thanks+for+visiting!;Let's+connect+and+build+something+amazing!&font=Fira%20Code&center=true&width=440&height=45&color=#37bcf7&vCenter=true&size=18&pause=1000" />
-
-![](https://komarev.com/ghpvc/?username=AmanMishra107&color=blueviolet&style=flat-square&label=PROFILE+VIEWS)
-
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 </div>
 
----
+<div align="center">
+  <h2>
+    <img src="https://media.giphy.com/media/3oriO04qxVReM5rJEA/giphy.gif" width="30">
+    <b>Support My Work</b>
+    <img src="https://media.giphy.com/media/3oriO04qxVReM5rJEA/giphy.gif" width="30">
+  </h2>
+</div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+  <p>If you like my work and want to support me, consider buying me a coffee! ☕</p>
+  <a href="https://buymeacoffee.com/amanmishra107" target="_blank">
+    <img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee"/>
+  </a>
+  <a href="https://ko-fi.com/amanmishra107" target="_blank">
+    <img src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Ko-Fi"/>
+  </a>
+</div>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</div>
+
+<div align="center">
+  <h3>
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25">
+    <b>Thanks for visiting my profile!</b>
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25">
+  </h3>
+</div>
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=✨+Thanks+for+visiting!+✨;🚀+Let's+build+something+amazing+together!+🚀;💻+Happy+Coding!+💻;🌟+Keep+Learning!+🌟&font=Fira%20Code&center=true&width=600&height=50&color=36BCF7&vCenter=true&size=20&pause=1000&repeat=true" />
+</div>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=AmanMishra107&color=36BCF7&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views"/>
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:83a4d4,100:b6fbff&height=120&section=footer&animation=twinkling"/>
 </div>
