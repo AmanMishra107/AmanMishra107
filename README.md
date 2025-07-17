@@ -1,9 +1,9 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:83a4d4,100:b6fbff&height=200&section=header&text=Aman%20Mishra&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=ffffff" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&text=Aman%20Mishra&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=ffffff" style="max-width: 100%; height: auto;"/>
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=🚀+Full+Stack+Developer;📊+Data+Science+Enthusiast;⚡+Frontend+Wizard;🌟+Always+Learning+New+Things;💡+Problem+Solver;🎯+Tech+Innovator&font=Fira%20Code&center=true&width=600&height=70&color=36BCF7&vCenter=true&size=25&pause=1000&repeat=true&duration=4000" />
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=🚀+Full+Stack+Developer;📊+Data+Science+Enthusiast;⚡+Frontend+Wizard;🌟+Always+Learning+New+Things;💡+Problem+Solver;🎯+Tech+Innovator;🔥+Code+Architect;✨+Innovation+Driver&font=Fira%20Code&center=true&width=600&height=70&color=36BCF7&vCenter=true&size=25&pause=1000&repeat=true&duration=3000" style="max-width: 100%; height: auto;"/>
 </div>
 
 <br>
@@ -43,7 +43,26 @@
 - 🌱 I'm currently learning **Advanced Data Science**
 - 👯 I'm looking to collaborate on **Open Source Projects**
 - 💬 Ask me about **Web Development, Data Science, and Tech**
-- ⚡ Fun fact: **There are two ways to write error-free programs; only the third one works**
+- ⚡ Fun fact: <div id="rotating-joke">**There are two ways to write error-free programs; only the third one works**</div>
+
+<script>
+const jokes = [
+  "Why do programmers prefer dark mode? Because light attracts bugs! 🐛",
+  "There are only 10 types of people: those who understand binary and those who don't 😄",
+  "Why do Java developers wear glasses? Because they can't C# 👓",
+  "A SQL query goes into a bar, walks up to two tables and asks: 'Can I join you?' 🍺",
+  "Why did the programmer quit his job? He didn't get arrays! 📊"
+];
+
+let currentJoke = 0;
+setInterval(() => {
+  const jokeElement = document.getElementById('rotating-joke');
+  if (jokeElement) {
+    currentJoke = (currentJoke + 1) % jokes.length;
+    jokeElement.innerHTML = `**${jokes[currentJoke]}**`;
+  }
+}, 3000);
+</script>
 - 📧 Reach me at: **your.email@example.com**
 
 ### 🎯 Current Focus
@@ -104,15 +123,17 @@ const aman = {
 </div>
 
 <div align="center">
-  <table>
+  <table style="width: 100%;">
     <tr>
-      <td width="50%">
-        <img src="https://github-readme-stats.vercel.app/api?username=AmanMishra107&show_icons=true&theme=tokyonight&bg_color=0D1117&border_color=30A3DC&border_radius=10" alt="GitHub Stats"/>
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=AmanMishra107&theme=tokyonight&background=0D1117&border=30A3DC&ring=1DB954&fire=1DB954&currStreakLabel=1DB954&sideNums=FFFFFF&currStreakNum=FFFFFF&dates=A0A9B8&sideLabels=A0A9B8&stroke=30A3DC" alt="GitHub Streak"/>
+      <td align="center" style="width: 50%; padding: 5px;">
+        <img src="https://github-readme-stats.vercel.app/api?username=AmanMishra107&show_icons=true&theme=tokyonight&bg_color=0D1117&border_color=30A3DC&border_radius=10" alt="GitHub Stats" style="max-width: 100%; height: auto;"/>
+        <br>
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=AmanMishra107&theme=tokyonight&background=0D1117&border=30A3DC&ring=1DB954&fire=1DB954&currStreakLabel=1DB954&sideNums=FFFFFF&currStreakNum=FFFFFF&dates=A0A9B8&sideLabels=A0A9B8&stroke=30A3DC" alt="GitHub Streak" style="max-width: 100%; height: auto;"/>
       </td>
-      <td width="50%">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmanMishra107&layout=compact&theme=tokyonight&bg_color=0D1117&border_color=30A3DC&border_radius=10&card_width=400" alt="Top Languages"/>
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=AmanMishra107&bg_color=0D1117&color=1DB954&line=30A3DC&point=FFFFFF&area=true&hide_border=true&custom_title=Contribution%20Graph" alt="Contribution Graph"/>
+      <td align="center" style="width: 50%; padding: 5px;">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmanMishra107&layout=compact&theme=tokyonight&bg_color=0D1117&border_color=30A3DC&border_radius=10" alt="Top Languages" style="max-width: 100%; height: auto;"/>
+        <br>
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=AmanMishra107&bg_color=0D1117&color=1DB954&line=30A3DC&point=FFFFFF&area=true&hide_border=true&custom_title=Contribution%20Graph" alt="Contribution Graph" style="max-width: 100%; height: auto;"/>
       </td>
     </tr>
   </table>
@@ -133,23 +154,23 @@ const aman = {
 </div>
 
 <div align="center">
-  <table>
+  <table style="width: 100%; border-collapse: collapse;">
     <tr>
-      <td align="center" width="25%">
+      <td align="center" style="width: 25%; padding: 10px; vertical-align: top;">
         <h3>🎨 Frontend</h3>
-        <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,bootstrap,tailwind&perline=4" />
+        <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,bootstrap,tailwind&perline=4" style="max-width: 100%; height: auto;"/>
       </td>
-      <td align="center" width="25%">
+      <td align="center" style="width: 25%; padding: 10px; vertical-align: top;">
         <h3>⚡ Backend</h3>
-        <img src="https://skillicons.dev/icons?i=nodejs,express,python,django,flask,fastapi&perline=3" />
+        <img src="https://skillicons.dev/icons?i=nodejs,express,python,django,flask,fastapi&perline=3" style="max-width: 100%; height: auto;"/>
       </td>
-      <td align="center" width="25%">
+      <td align="center" style="width: 25%; padding: 10px; vertical-align: top;">
         <h3>🗄️ Database & Cloud</h3>
-        <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,firebase,aws,gcp&perline=3" />
+        <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,firebase,aws,gcp&perline=3" style="max-width: 100%; height: auto;"/>
       </td>
-      <td align="center" width="25%">
+      <td align="center" style="width: 25%; padding: 10px; vertical-align: top;">
         <h3>🛠️ Tools & Others</h3>
-        <img src="https://skillicons.dev/icons?i=git,github,vscode,docker,linux,figma&perline=3" />
+        <img src="https://skillicons.dev/icons?i=git,github,vscode,docker,linux,figma&perline=3" style="max-width: 100%; height: auto;"/>
       </td>
     </tr>
   </table>
@@ -198,20 +219,20 @@ const aman = {
 </div>
 
 <div align="center">
-  <table>
+  <table style="width: 100%; border-collapse: collapse;">
     <tr>
-      <td width="50%" align="center">
+      <td align="center" style="width: 50%; padding: 10px;">
         <a href="https://github.com/AmanMishra107/Netflix-homepage">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=AmanMishra107&repo=Netflix-homepage&theme=tokyonight&bg_color=0D1117&border_color=30A3DC&border_radius=10&hide_border=false" alt="Netflix Homepage"/>
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=AmanMishra107&repo=Netflix-homepage&theme=tokyonight&bg_color=0D1117&border_color=30A3DC&border_radius=10&hide_border=false" alt="Netflix Homepage" style="max-width: 100%; height: auto;"/>
         </a>
         <br><br>
         <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
         <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
         <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
       </td>
-      <td width="50%" align="center">
+      <td align="center" style="width: 50%; padding: 10px;">
         <a href="https://github.com/AmanMishra107/Temperature-converter">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=AmanMishra107&repo=Temperature-converter&theme=tokyonight&bg_color=0D1117&border_color=30A3DC&border_radius=10&hide_border=false" alt="Temperature Converter"/>
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=AmanMishra107&repo=Temperature-converter&theme=tokyonight&bg_color=0D1117&border_color=30A3DC&border_radius=10&hide_border=false" alt="Temperature Converter" style="max-width: 100%; height: auto;"/>
         </a>
         <br><br>
         <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
@@ -390,5 +411,58 @@ Other        38 mins         █░░░░░░░░░░░░░░░░
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:83a4d4,100:b6fbff&height=120&section=footer&animation=twinkling"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=120&section=footer&animation=twinkling" style="max-width: 100%; height: auto;"/>
 </div>
+
+<style>
+@keyframes pulse {
+  0% { transform: scale(1); }
+  50% { transform: scale(1.05); }
+  100% { transform: scale(1); }
+}
+
+@keyframes glow {
+  0% { box-shadow: 0 0 5px rgba(54, 188, 247, 0.5); }
+  50% { box-shadow: 0 0 20px rgba(54, 188, 247, 0.8); }
+  100% { box-shadow: 0 0 5px rgba(54, 188, 247, 0.5); }
+}
+
+@keyframes float {
+  0% { transform: translateY(0px); }
+  50% { transform: translateY(-10px); }
+  100% { transform: translateY(0px); }
+}
+
+img {
+  animation: float 3s ease-in-out infinite;
+}
+
+.badge {
+  animation: pulse 2s infinite, glow 2s infinite;
+}
+
+table {
+  max-width: 100%;
+  overflow-x: auto;
+  display: block;
+}
+
+@media (max-width: 768px) {
+  table {
+    display: block;
+    overflow-x: auto;
+    white-space: nowrap;
+  }
+  
+  table tr {
+    display: flex;
+    flex-direction: column;
+  }
+  
+  table td {
+    display: block;
+    width: 100% !important;
+    padding: 5px !important;
+  }
+}
+</style>
