@@ -256,11 +256,13 @@ const aman = {
 </div>
 
 ---
-
 ## 🐍 Snake Game
 
 <div align="center">
+
+  <!-- Main snake from output branch -->
   <img src="https://raw.githubusercontent.com/AmanMishra107/AmanMishra107/output/snake.svg" alt="Snake animation" />
+
 </div>
 
 ---
