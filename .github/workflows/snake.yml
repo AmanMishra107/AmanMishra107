@@ -4,7 +4,7 @@ on:
   schedule: # Run once a day at midnight UTC
     - cron: "0 0 * * *"
   workflow_dispatch: # Allow running manually from the Actions tab
-  push: # Run also when you push changes to main
+  push:
     branches:
       - main
 
@@ -12,17 +12,24 @@ jobs:
   build:
     runs-on: ubuntu-latest
     permissions:
-      contents: write   # ✅ Needed to push to output branch
+      contents: write
 
     steps:
       - name: Checkout repository
         uses: actions/checkout@v3
 
-      - name: Generate Snake animation
-        uses: Platane/snk/svg-only@v3   # ✅ Use svg-only for stable snake.svg output
+      - name: Generate Snake animation (Dark Mode)
+        uses: Platane/snk/svg-only@v3
         with:
           github_user_name: AmanMishra107
-          outputs: dist/snake.svg
+          outputs: |
+            dist/snake-dark.svg
+          # 🎨 Dark mode customization
+          snake_color: "#00FF00"
+          snake_head_color: "#FF4500"
+          background: "#0d1117"
+          color_snake: "#39FF14"
+          color_dots: "#8b949e"
 
       - name: Push Snake to output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
