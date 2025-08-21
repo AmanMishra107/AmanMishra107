@@ -63,7 +63,7 @@ setInterval(() => {
   }
 }, 3000);
 </script>
-- 📧 Reach me at: **your.email@example.com**
+- 📧 Reach me at: **amanpavanmishra10@gmail.com**
 
 ### 🎯 Current Focus
 ```javascript
