@@ -45,24 +45,7 @@
 - 💬 Ask me about **Web Development, Data Science, and Tech**
 - ⚡ Fun fact: <div id="rotating-joke">**There are two ways to write error-free programs; only the third one works**</div>
 
-<script>
-const jokes = [
-  "Why do programmers prefer dark mode? Because light attracts bugs! 🐛",
-  "There are only 10 types of people: those who understand binary and those who don't 😄",
-  "Why do Java developers wear glasses? Because they can't C# 👓",
-  "A SQL query goes into a bar, walks up to two tables and asks: 'Can I join you?' 🍺",
-  "Why did the programmer quit his job? He didn't get arrays! 📊"
-];
 
-let currentJoke = 0;
-setInterval(() => {
-  const jokeElement = document.getElementById('rotating-joke');
-  if (jokeElement) {
-    currentJoke = (currentJoke + 1) % jokes.length;
-    jokeElement.innerHTML = `**${jokes[currentJoke]}**`;
-  }
-}, 3000);
-</script>
 - 📧 Reach me at: **amanpavanmishra10@gmail.com**
 
 ### 🎯 Current Focus
@@ -292,7 +275,7 @@ const aman = {
 </div>
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=Code%20is%20like%20humor.%20When%20you%20have%20to%20explain%20it,%20it's%20bad.&author=Cory%20House" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=Push%20yourself,%20because%20no%20one%20else%20is%20going%20to%20do%20it%20for%20you.&author=Aman" />
 </div>
 
 <br>
@@ -343,24 +326,24 @@ Other        38 mins         █░░░░░░░░░░░░░░░░
     <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30">
   </h2>
 </div>
-
 <p align="center">
   <a href="https://linkedin.com/in/AmanMishra107" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&animation=pulse" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://x.com/AmanMishra107" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
+    <img src="https://img.shields.io/badge/Twitter%20-%23000000.svg?style=for-the-badge&logo=x&logoColor=white" alt="Twitter (X)"/>
   </a>
   <a href="https://instagram.com/aman.mishra__107" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
   <a href="mailto:amanpavanmishra10@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+    <img src="https://img.shields.io/badge/Gmail-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
   <a href="https://yourportfolio.com" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
+    <img src="https://img.shields.io/badge/Portfolio-%23FF5722.svg?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
   </a>
 </p>
+
 
 
 <div align="center">
