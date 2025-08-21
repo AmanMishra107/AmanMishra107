@@ -4,19 +4,22 @@ on:
   schedule: # Run once a day at midnight UTC
     - cron: "0 0 * * *"
   workflow_dispatch: # Allow running manually from the Actions tab
-  push: # (optional) run when pushing changes to main
+  push: # Run also when you push changes to main
     branches:
       - main
 
 jobs:
   build:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write   # ✅ Needed to push to output branch
+
     steps:
       - name: Checkout repository
         uses: actions/checkout@v3
 
       - name: Generate Snake animation
-        uses: Platane/snk@v3
+        uses: Platane/snk/svg-only@v3   # ✅ Use svg-only for stable snake.svg output
         with:
           github_user_name: AmanMishra107
           outputs: dist/snake.svg
