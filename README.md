@@ -326,6 +326,7 @@ Other        38 mins         █░░░░░░░░░░░░░░░░
 ## 🎵 Currently Vibing To
 
 <div align="center">
+  
  [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=317ujkciwkd5wweejkk32mbultom&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
 
 </div>
