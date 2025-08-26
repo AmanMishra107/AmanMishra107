@@ -339,7 +339,7 @@ Other        38 mins         █░░░░░░░░░░░░░░░░
   <a href="mailto:amanpavanmishra10@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
-  <a href="https://yourportfolio.com" target="_blank">
+  <a href="https://aman-ethical-hacker-portfolio.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-%23FF5722.svg?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
   </a>
 </p>
