@@ -205,7 +205,7 @@ const aman = {
   <table style="width: 100%; border-collapse: collapse;">
     <tr>
       <td align="center" style="width: 50%; padding: 10px;">
-        <a href="https://github.com/AmanMishra107/Netflix-homepage">
+        <a href="https://github.com/AmanMishra107/Budhetly">
           <img src="https://github-readme-stats.vercel.app/api/pin/?username=AmanMishra107&repo=Netflix-homepage&theme=tokyonight&bg_color=0D1117&border_color=30A3DC&border_radius=10&hide_border=false" alt="Netflix Homepage" style="max-width: 100%; height: auto;"/>
         </a>
         <br><br>
@@ -214,7 +214,7 @@ const aman = {
         <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
       </td>
       <td align="center" style="width: 50%; padding: 10px;">
-        <a href="https://github.com/AmanMishra107/Temperature-converter">
+        <a href="https://github.com/AmanMishra107/cyber-safe-play">
           <img src="https://github-readme-stats.vercel.app/api/pin/?username=AmanMishra107&repo=Temperature-converter&theme=tokyonight&bg_color=0D1117&border_color=30A3DC&border_radius=10&hide_border=false" alt="Temperature Converter" style="max-width: 100%; height: auto;"/>
         </a>
         <br><br>
