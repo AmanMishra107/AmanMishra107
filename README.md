@@ -65,33 +65,6 @@ const currentFocus = {
   <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="400">
 </div>
 
-### 💻 Coding Activity
-```javascript
-const aman = {
-    pronouns: "He" | "Him",
-    code: ["JavaScript", "Python", "HTML", "CSS", "Java"],
-    askMeAbout: ["web dev", "data science", "tech", "app dev"],
-    technologies: {
-        frontEnd: {
-            js: ["React", "Next.js", "Vue.js"],
-            css: ["Bootstrap", "Tailwind", "Material-UI"]
-        },
-        backEnd: {
-            python: ["Django", "Flask", "FastAPI"],
-            js: ["Node.js", "Express"]
-        },
-        dataScience: ["NumPy", "Pandas", "Matplotlib", "Scikit-learn"],
-        databases: ["MongoDB", "MySQL", "PostgreSQL"],
-        misc: ["Firebase", "Socket.IO", "Docker"]
-    },
-    architecture: [
-        "Serverless Architecture", 
-        "Progressive web applications", 
-        "Single page applications"
-    ],
-    currentProject: "Working on something cool 😎"
-};
-```
 
 </td>
 </tr>
