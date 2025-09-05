@@ -1,7 +1,6 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&text=Aman%20Mishra&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=ffffff" style="max-width: 100%; height: auto;"/>
 </div>
-
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=🚀+Full+Stack+Developer;🔐+Cyber+Security+Enthusiast;📊+Data+Science+Enthusiast;⚡+Frontend+Wizard;🌟+Always+Learning+New+Things;💡+Problem+Solver;🎯+Tech+Innovator;🔥+Code+Architect;✨+Innovation+Driver&font=Fira%20Code&center=true&width=600&height=70&color=36BCF7&vCenter=true&size=25&pause=1000&repeat=true&duration=3000" style="max-width: 100%; height: auto;"/>
 </div>
