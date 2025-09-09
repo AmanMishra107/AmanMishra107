@@ -4,7 +4,6 @@
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=🚀+Full+Stack+Developer;🔐+Cyber+Security+Enthusiast;📊+Data+Science+Enthusiast;⚡+Frontend+Wizard;🌟+Always+Learning+New+Things;💡+Problem+Solver;🎯+Tech+Innovator;🔥+Code+Architect;✨+Innovation+Driver&font=Fira%20Code&center=true&width=600&height=70&color=36BCF7&vCenter=true&size=25&pause=1000&repeat=true&duration=3000" style="max-width: 100%; height: auto;"/>
 </div>
-
 <br>
 
 <div align="center">
