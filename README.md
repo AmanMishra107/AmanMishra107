@@ -184,15 +184,18 @@ const currentFocus = {
         <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
         <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
       </td>
-      <td align="center" style="width: 50%; padding: 10px;">
-        <a href="https://github.com/AmanMishra107/cyber-safe-play">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=AmanMishra107&repo=cyber-safe-play&theme=tokyonight&bg_color=0D1117&border_color=30A3DC&border_radius=10&hide_border=false" alt="cyber-safe-play" style="max-width: 100%; height: auto;"/>
-        </a>
-        <br><br>
-        <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-        <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-      </td>
+  <td align="center" style="width: 50%; padding: 10px;">
+    <a href="https://github.com/AmanMishra107/Luxe-Salon">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=AmanMishra107&repo=Luxe-Salon&theme=tokyonight&bg_color=0D1117&border_color=30A3DC&border_radius=10&hide_border=false" 
+           alt="Luxe-Salon" style="max-width: 100%; height: auto;"/>
+    </a>
+    <br><br>
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+    <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+    <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+</td>
     </tr>
   </table>
 </div>
