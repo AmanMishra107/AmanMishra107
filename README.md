@@ -193,7 +193,7 @@ const currentFocus = {
 <!-- TypeScript -->
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
 
-      </td>
+      
   <td align="center" style="width: 50%; padding: 10px;">
     <a href="https://github.com/AmanMishra107/Luxe-Salon">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=AmanMishra107&repo=Luxe-Salon&theme=tokyonight&bg_color=0D1117&border_color=30A3DC&border_radius=10&hide_border=false" 
