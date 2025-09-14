@@ -115,15 +115,15 @@ const currentFocus = {
       </td>
       <td align="center" style="width: 25%; padding: 10px; vertical-align: top;">
         <h3>⚡ Backend</h3>
-        <img src="https://skillicons.dev/icons?i=nodejs,express,python,django,flask,fastapi&perline=3" style="max-width: 100%; height: auto;"/>
+        <img src="https://skillicons.dev/icons?i=nodejs,express,python,fastapi&perline=3" style="max-width: 100%; height: auto;"/>
       </td>
       <td align="center" style="width: 25%; padding: 10px; vertical-align: top;">
         <h3>🗄️ Database & Cloud</h3>
-        <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,firebase,aws,gcp&perline=3" style="max-width: 100%; height: auto;"/>
+        <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,firebase,aws,supabase&perline=3" style="max-width: 100%; height: auto;"/>
       </td>
       <td align="center" style="width: 25%; padding: 10px; vertical-align: top;">
         <h3>🛠️ Tools & Others</h3>
-        <img src="https://skillicons.dev/icons?i=git,github,vscode,docker,linux,figma&perline=3" style="max-width: 100%; height: auto;"/>
+        <img src="https://skillicons.dev/icons?i=git,github,vscode,kali,linux,figma&perline=3" style="max-width: 100%; height: auto;"/>
       </td>
     </tr>
   </table>
