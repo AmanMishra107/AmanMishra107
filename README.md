@@ -108,14 +108,14 @@ const currentFocus = {
 
 <div align="center">
   <table style="width: 100%; border-collapse: collapse;">
-    <tr>
+    <tr> 
       <td align="center" style="width: 25%; padding: 10px; vertical-align: top;">
         <h3>🎨 Frontend</h3>
         <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,bootstrap,tailwind&perline=4" style="max-width: 100%; height: auto;"/>
       </td>
       <td align="center" style="width: 25%; padding: 10px; vertical-align: top;">
         <h3>⚡ Backend</h3>
-        <img src="https://skillicons.dev/icons?i=nodejs,express,python,fastapi&perline=3" style="max-width: 100%; height: auto;"/>
+        <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi&perline=3" style="max-width: 100%; height: auto;"/>
       </td>
       <td align="center" style="width: 25%; padding: 10px; vertical-align: top;">
         <h3>🗄️ Database & Cloud</h3>
