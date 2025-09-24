@@ -37,7 +37,7 @@
 
 ### 🚀 Quick Facts
 - 🔭 I'm currently working on **Full Stack Development**
-- 🌱 I'm currently learning **Advanced Data Science**
+- 🌱 I'm currently learning **CyberSecurity**
 - 👯 I'm looking to collaborate on **Open Source Projects**
 - 💬 Ask me about **Web Development, Data Science, and Tech**
 - ⚡ Fun fact: <div id="rotating-joke">**There are two ways to write error-free programs; only the third one works**</div>
